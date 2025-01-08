@@ -1,0 +1,28 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #C4A484; 
+    text-align: center;
+}
+
+h1{
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    margin: 20px; 
+}
+
+ul li a{
+    display: inline-block;
+    text-decoration: none;  
+    background-color:  rgb(246, 186, 74);
+    color: black; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    font-weight: bold;
+}

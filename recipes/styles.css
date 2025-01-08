@@ -1,0 +1,13 @@
+body{
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #C4A484; 
+}
+
+h2{
+  padding: 10px;
+  border-bottom: 2px solid black;
+}
+
+ol li{
+  margin: 5px 0px; 
+}
